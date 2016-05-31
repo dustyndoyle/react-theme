@@ -1,0 +1,11 @@
+# ignore minifies CSS, minified JS, and Node Modules
+/css
+/js
+/node_modules
+
+# remove any file or folder that starts with .
+.*
+
+# not gitignore
+!.gitignore
+
